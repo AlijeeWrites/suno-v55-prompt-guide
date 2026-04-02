@@ -16,8 +16,6 @@ You will learn:
 
 If your goal is to create high-quality AI songs, grow a YouTube/TikTok channel, or even sell music, this guide is for you.
 
----
-
 ## What is Suno v5.5 and Why It Matters
 
 Suno v5.5 is a major update to the Suno platform that focuses heavily on **personalization**. Earlier versions improved audio fidelity and structure, but v5.5 goes further by making the tool feel like *your* creative instrument.
@@ -31,8 +29,6 @@ It introduces three powerful new features:
 > **Note:** Voices and Custom Models are available for **Pro and Premier** subscribers. My Taste is available to **all users**.
 
 This update shifts Suno from generic AI music generation to a truly creator-centric experience.
-
----
 
 ## How Suno v5.5 Understands Prompts
 
@@ -57,8 +53,6 @@ Avoid vague prompts. Be specific and descriptive.
 
 The second prompt gives Suno clear direction on every part of the song.
 
----
-
 ## Best Structure for Suno AI Prompts (2026)
 
 Use this proven template for consistent results:
@@ -67,15 +61,12 @@ Use this proven template for consistent results:
 **Example:**
 cinematic pop ballad, melancholic and hopeful, 72 BPM, warm male vocals with slight reverb, piano and strings driven, emotional story of overcoming loss, building to a soaring chorus
 
-
 **Pro Tips for v5.5:**
 - Start with the most important descriptors
 - Use natural language instead of just comma-separated tags
 - Mention what you **don't** want when needed (e.g., "no heavy drums")
 - For Voices: Select your trained Voice in the interface and reference it lightly in the prompt
 - For Custom Models: Choose your trained model first, then prompt normally — it will adapt automatically
-
----
 
 ## How to Use the New v5.5 Features
 
@@ -95,8 +86,6 @@ cinematic pop ballad, melancholic and hopeful, 72 BPM, warm male vocals with sli
 - Create songs normally
 - The more you generate, the better it understands you
 - Click the Magic Wand in Styles for personalized suggestions
-
----
 
 ## 50+ Best Suno v5.5 Prompts (Copy-Paste Ready)
 
@@ -185,8 +174,6 @@ Copy and paste these directly. Feel free to tweak BPM, gender, or add “in my o
 - **Prompt ignored** → Put the most important elements at the beginning and end
 - **Generic sound** → Use a Custom Model or enable My Taste
 
----
-
 ## Final Tips for Pro Results
 
 - Experiment with 2–3 generations per prompt
@@ -196,9 +183,7 @@ Copy and paste these directly. Feel free to tweak BPM, gender, or add “in my o
 
 This guide will be updated regularly as I discover new prompt techniques in v5.5.
 
-**Made by ❤️ by Alijee Writes**
-
----
+**Made by ❤️ Alijee Writes**
 
 ## Contributing
 
@@ -207,3 +192,5 @@ Feel free to suggest new prompts or tips via Issues or Pull Requests.
 ## License
 
 MIT License — Feel free to use and share this guide.
+
+*Disclaimer:* This post contains affiliate links, which means if you make a purchase through these links, I may earn a commission at no extra cost to you. 
