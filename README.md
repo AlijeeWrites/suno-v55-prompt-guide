@@ -2,7 +2,7 @@
 
 **50+ Best Prompts for Voice Cloning, Custom Models, & "My Taste" Style Personalization**
 
-If you want better music from Suno v5.5, this guide will help you. I use Suno every day and tested many prompts. Some failed. Some worked very well.
+If you want better music from [Suno v5.5](https://suno.com), this guide will help you. I use Suno every day and tested many prompts. Some failed. Some worked very well.
 
 In this updated 2026 guide, I will show you what actually works.
 
@@ -18,7 +18,7 @@ If your goal is to create high-quality AI songs, grow a YouTube/TikTok channel, 
 
 ## What is Suno v5.5 and Why It Matters
 
-Suno v5.5(https://suno.com/blog/v5-5) is a major update to the Suno platform that focuses heavily on **personalization**. Earlier versions improved audio fidelity and structure, but v5.5 goes further by making the tool feel like *your* creative instrument.
+[Suno v5.5](https://suno.com/blog/v5-5) is a major update to the Suno platform that focuses heavily on **personalization**. Earlier versions improved audio fidelity and structure, but v5.5 goes further by making the tool feel like *your* creative instrument.
 
 It introduces three powerful new features:
 
