@@ -18,7 +18,7 @@ If your goal is to create high-quality AI songs, grow a YouTube/TikTok channel, 
 
 ## What is Suno v5.5 and Why It Matters
 
-Suno v5.5 (https://suno.com/blog/v5-5) is a major update to the Suno platform that focuses heavily on **personalization**. Earlier versions improved audio fidelity and structure, but v5.5 goes further by making the tool feel like *your* creative instrument.
+Suno v5.5(https://suno.com/blog/v5-5) is a major update to the Suno platform that focuses heavily on **personalization**. Earlier versions improved audio fidelity and structure, but v5.5 goes further by making the tool feel like *your* creative instrument.
 
 It introduces three powerful new features:
 
